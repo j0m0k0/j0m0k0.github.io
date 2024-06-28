@@ -5,5 +5,5 @@ order: 4
 ---
 #Hi!
 ![About](/assets/img/avatar.jpeg)
-I'm Javad, PhD Student of Computer Science at TXST and Web Developer.
+I'm Javad, `PhD Student of Computer Science at TXST` and `Web Developer`.
 
