@@ -18,6 +18,6 @@ print('hello blogging world!)
 
 If you want to provide an image on the top of the post, it should have resolution 1200x630.
 
-# Read More
+## Read More
 Here you can read more!
 
