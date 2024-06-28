@@ -16,10 +16,10 @@ timezone: America/Chicago
 
 title: Sec-Sea # the main title
 
-tagline: Security Sea by Javad Koushyar # it will display as the sub-title
+tagline: A Security & Computer Science Blog by Javad Koushyar # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Security Sea is a cutting-edge blog on security topics by Javad Koushyar.
+  Security Sea is a blog on security and computer science topics created by Javad Koushyar.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
