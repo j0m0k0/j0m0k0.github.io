@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+#Hi!
+![About](/assets/img/avatar.jpeg)
+I'm Javad, PhD Student of Computer Science at TXST and Web Developer.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
