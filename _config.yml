@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Sec-Sea # the main title
 
-tagline: A Security & Computer Science Blog by Javad Koushyar # it will display as the sub-title
+tagline: A Cybersecurity & Computer Science Blog by Javad Koushyar # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Security Sea is a blog on security and computer science topics created by Javad Koushyar.

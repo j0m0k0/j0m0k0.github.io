@@ -4,7 +4,7 @@ date: 2024-07-01 17:20:00 -0500
 categories: [Cybersecurity]
 tags: [cybersecurity, introduction-to-cybersecurity]     # TAG names should always be lowercase
 image: /assets/img/posts/intro-cybersecurity/header.png
-alt: "Introduction to Cybersecurity"
+alt: "A Practical Introduction to Cybersecurity"
 ---
 Entering a new area in computer science is always challenging for me. In this blog post, I'll introduce you to the essential concepts you need to understand to navigate the world of cybersecurity.
 
