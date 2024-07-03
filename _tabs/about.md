@@ -9,7 +9,7 @@ order: 4
 ## About Me
 I am Javad Koushyar, a dedicated `Graduate Research Assistant at Texas State University` and an `Experienced Software Developer` with a robust background in software engineering. My professional journey has spanned continents and disciplines, from a Senior Software Engineer in Australia, to leading team of developers in Iran.
 
-<img src="/assets/img/javad.jpeg" alt="Javad Koushyar" style="margin: auto" width="60%"/>
+<img src="/assets/img/javad-2.jpeg" alt="Javad Koushyar" style="margin: auto" width="60%"/>
 
 <!-- ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical) -->
 

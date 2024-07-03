@@ -3,10 +3,14 @@ title: A Practical Introduction to Cybersecurity
 date: 2024-07-01 17:20:00 -0500
 categories: [Cybersecurity]
 tags: [cybersecurity, introduction-to-cybersecurity]     # TAG names should always be lowercase
-image: /assets/img/posts/intro-cybersecurity/header.png
+image: /assets/img/posts/intro-cybersecurity/cover.png
 alt: "A Practical Introduction to Cybersecurity"
 ---
 Entering a new area in computer science is always challenging for me. In this blog post, I'll introduce you to the essential concepts you need to understand to navigate the world of cybersecurity.
+
+## What is Cybersecurity?
+Cybersecurity has different defintions by different standards and perspectives. However, I really like the definition of cybersecurity given by CISA:
+> **Cybersecurity is the art of protecting networks, devices, and data from unauthorized access or criminal use and the practice of ensuring confidentiality, integrity, and availability of information.**
 
 ## Offensive vs Defensive
 
@@ -77,3 +81,5 @@ Cybersecurity is an exciting and lucrative career path. You can legally hack sys
 
 By understanding the differences between offensive and defensive cybersecurity roles, you can better navigate the exciting field of cybersecurity and choose a career path that suits your interests and skills.
 
+## Read More
+- <a href="https://www.cisa.gov/news-events/news/what-cybersecurity" target="_blank">What is Cybersecurity?</a>
