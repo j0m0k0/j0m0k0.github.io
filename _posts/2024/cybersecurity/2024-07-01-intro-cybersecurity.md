@@ -1,5 +1,5 @@
 ---
-title: A Practical Introduction to Cybersecurity
+title: Introduction to Cybersecurity
 date: 2024-07-01 17:20:00 -0500
 categories: [Cybersecurity]
 tags: [cybersecurity, introduction-to-cybersecurity]     # TAG names should always be lowercase
