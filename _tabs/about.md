@@ -6,10 +6,10 @@ order: 4
 ## 👋 Hi, I’m Javad
 [![Linkedin: Javad Koushyar ](https://img.shields.io/badge/-Javad%20Koushyar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javad-mokhtari/)](https://www.linkedin.com/in/javad-mokhtari/)
 [![Twitter: Javad Koushyar](https://img.shields.io/twitter/follow/JavadKoushyar?style=social)](https://twitter.com/JavadKoushyar)
-## About Me
-I am Javad Koushyar, a dedicated `Graduate Research Assistant at Texas State University` and an `Experienced Software Developer` with a robust background in software engineering. My professional journey has spanned continents and disciplines, from a Senior Software Engineer in Australia, to leading team of developers in Iran.
 
 <img src="/assets/img/javad-2.jpeg" alt="Javad Koushyar" style="margin: auto" width="60%"/>
+
+I am Javad, a dedicated `Graduate Research Assistant at Texas State University` and an `Experienced Software Developer` with a robust background in software engineering. My professional journey has spanned continents and disciplines, from a Senior Software Engineer in Australia, to leading team of developers in Iran.
 
 <!-- ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical) -->
 
