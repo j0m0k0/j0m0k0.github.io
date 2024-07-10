@@ -19,7 +19,7 @@ Generally, cybersecurity roles can be categorized into offensive and defensive. 
 Based on the definition I gave, do you think the quote below is from an offensive security professional or a defensive security professional?
 
 > To beat a hacker, you need to act like a hacker.
-{: .prompt-tip }
+{: .prompt-info }
 
 ### Offensive Security
 
