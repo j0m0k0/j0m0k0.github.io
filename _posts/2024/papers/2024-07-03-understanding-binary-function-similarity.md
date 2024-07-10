@@ -9,6 +9,33 @@ math: true
 ---
 Recently, I came across a paper[^footnote] that introduced new concepts to me. Consequently, I decided to delve into the problem it describes and share my findings. In this blog post, we will explore the **binary function similarity** problem, understand its significance, and examine existing approaches to address it.
 
+## Background Knowledge
+If you are interested to read papers in this research area, you probably need some background knowledge. Here I put some of the concepts that you should be familiar with to be able to understand this paper easier. [If you just interested in knowing the problem, then skip this part and go directly to the Next Section](#binary-function-similarity).
+
+### Stripped Binaries
+Those kinds of binaries that symbolic information (like variable names, function names) has been removed. This stripping process reduces file size and makes the reverse engineering process harder.
+
+### Static Linking
+In static linking, libraries and dependencies are included directly into the binary during compilation. This contrasts with dynamic linking, where libraries are linked at runtime.
+
+### Stub
+stub is like a little note in a program that says, "Hey, I need to use this function, but I don't know exactly where it is right now." When the program runs, it uses this note to find the function and then updates the note with the exact address, so it knows where to go next time it needs the function.
+
+### Dynamic Linker
+When the program runs, a special helper called the "dynamic linker" reads the stub's note. The dynamic linker knows where all the shared libraries (like toolkits) are stored. It looks up the function in these libraries, finds the exact location, and updates the stub with this address. So, next time the program needs that function, it knows exactly where to find it. For example, `dyld` is the dynamic linker used in macOS.
+
+### A Fuzzy Hash, or Similarity ash
+A cryptographic hash function that calculates a hash value based on the content of a file or data, but with the property that small changes in the input data result in small changes in the hash value. This is unlike traditional cryptographic hashes (like SHA-256) where even a tiny change in input results in a completely different hash value.
+
+### Function Inlining
+A technique used by compilers to improve the performance of a program. Instead of calling a function and jumping to its code, the compiler takes the body of the function and inserts it directly into the place where the function is called. This eliminates the overhead of a function call, such as setting up the stack and jumping to the function's code, making the program run faster. However, it can increase the size of the code if the function is called many times.
+
+### Receiver Operating Character (ROC)
+Plots two parameters True Positive Rate (TPR) and False Positive Rate (FPR).
+
+### Area Under Curve (AUC)
+A metric derived from the ROC curve. It quantifies the overall ability of a model to discriminate between positive and negative classes. The AUC value ranges from 0 to 1, where: An AUC of 0.5 suggests a model with no discrimination ability, equivalent to random guessing. An AUC of 1.0 indicates a perfect model that perfectly separates the positive and negative classes without error.
+
 ## Binary Function Similarity
 The binary function similarity problem can be defined as follows:
 
@@ -103,7 +130,7 @@ Similar representation exists for the fibonacci_recursive function.
 
 Now the question arises: Given the binary representations of these two functions, can you determine how similar they are? The definition of similarity can vary—whether it refers to the sequence of binaries or the functionality executed by a function depends on the context but typically involves functional similarity.
 
-Solutions
+## Solutions
 A simple search on Google Scholar reveals numerous papers attempting to address the binary function similarity problem. The paper I referenced earlier, titled How Machine Learning Is Solving the Binary Function Similarity Problem, is a review paper that summarizes notable solutions and compares them.
 
 Here are some images from the paper showing a comparison of different approaches to solving the binary function similarity problem, measured on a dataset, making the results comparable. The metrics are based on the Area Under Curve (AUC), hence they range between 0 and 1.
