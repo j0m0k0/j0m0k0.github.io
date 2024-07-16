@@ -1,8 +1,8 @@
 ---
-title: Understanding Binary Function Similarity Problem
+title: Understanding Binary Function Similarity
 date: 2024-07-05 15:20:00 -0500
 categories: [Papers, Reverse Engineering]
-tags: [binary function similarity problem]     # TAG names should always be lowercase
+tags: [binary function similarity]     # TAG names should always be lowercase
 image: /assets/img/posts/paper-binary-comparison/cover.png
 alt: "How Machine Learning Is Solving the Binary Function Similarity Problem?"
 math: true
