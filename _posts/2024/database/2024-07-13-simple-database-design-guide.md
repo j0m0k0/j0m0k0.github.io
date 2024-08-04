@@ -36,12 +36,18 @@ Start by identifying the entities and their relationships. Then, determine the a
 
 To translate your ER diagram into a **relational model**, you convert entities into tables, relationships into foreign keys, and attributes into columns within these tables. The mappings of relationships is something you should consider.
 
-## 4. Implementation
+## 4. Implement Your Relational Schema using a RDBMS
 
-Once you have your relational model, the next step is to implement it in a database management system (DBMS) like MySQL, PostgreSQL, or SQLite. This involves creating the tables according to the relational schema and then writing SQL queries to interact with the data.
+Once you have your relational model, the next step is to implement it in a relational database management system (RDBMS) like Oracle Database. This involves creating the tables according to the relational schema and then writing SQL queries to interact with the data.
 
-## 5. Maintenance and Improvement
+## 5. Test Your Database Before Interacting With The Application
+Before porting your database into your application, try to insert some data (can be fake) into your tables and run some queries to see if it works the same way that you want. If it was fine, you can proceed. Otherwise, You probably need to step back.
 
-To improve the database's efficiency and reduce data redundancy, apply **normalization** techniques. Normalization involves decomposing a table into less redundant (and more independent) tables but still containing the same information. It helps in maintaining data integrity and optimizing query performance.
+## 6. Improve your Database Design
+
+To improve the database's efficiency and reduce data redundancy, apply **normalization** techniques. Normalization involves decomposing a table into less redundant (and more independent) tables but still containing the same information. It helps in maintaining data integrity and optimizing query performance. However, normalization at very high levels (e.g., 5NF) can introduce a performance overhead that you should be careful about it in real-world applications.
+
+## 7. Backup is Important
+Backup your data with a robust backup system. You can use the RDBMS itself for doing the backup, or use external services for that. Whatever it is, you should have a backup schedule for your database. Otherwise, you are developing an unstable software!
 
 By following these steps, you can design a robust database system tailored to your software’s specific needs.
