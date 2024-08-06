@@ -39,7 +39,7 @@ I am Javad, a dedicated `Graduate Research Assistant at Texas State University` 
 - PhD's degree in Computer Science -- from Texas State University, Texas, United States (In progress)
 - Bachelor's degree in Computer Engineering -- from Bu-Ali University, Hamedan, Iran
 
-## Technical Books I've Enjoyed
+<!-- ## Technical Books I've Enjoyed
 
 | Book Title                             | Author(s)                               | Year  | Status              |
 |----------------------------------------|-----------------------------------------|-------|---------------------|
@@ -48,7 +48,7 @@ I am Javad, a dedicated `Graduate Research Assistant at Texas State University` 
 | Understanding Deep Learning            | Simon J.D. Prince                       | 2024  |          ✅         |
 | The Joy of Cryptography                | Mike Rosulek                            | 2024  | Currently reading   |
 | Introduction to Algorithms             | Cormen, Leiserson, Rivest, and Stein    | 2024  | Next on my list     |
-
+ -->
 
 ---
 ## Contact ME
