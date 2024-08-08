@@ -1,7 +1,7 @@
 ---
 title: Introduction to Cybersecurity
 date: 2024-07-01 17:20:00 -0500
-categories: [Cybersecurity]
+categories: [Cybersecurity, Basics]
 tags: [cybersecurity, introduction-to-cybersecurity]     # TAG names should always be lowercase
 image: /assets/img/posts/intro-cybersecurity/cover.png
 alt: "A Practical Introduction to Cybersecurity"

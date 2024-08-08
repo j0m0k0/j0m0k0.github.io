@@ -1,13 +1,13 @@
 ---
-title: Understanding Binary Function Similarity
+title: What Is Binary Function Similarity?
 date: 2024-07-05 15:20:00 -0500
-categories: [Papers, Reverse Engineering]
+categories: [Understanding Papers, Reverse Engineering]
 tags: [binary function similarity]     # TAG names should always be lowercase
 image: /assets/img/posts/paper-binary-comparison/cover.png
 alt: "How Machine Learning Is Solving the Binary Function Similarity Problem?"
 math: true
 ---
-Recently, I came across a paper[^footnote] that introduced new concepts to me. Consequently, I decided to delve into the problem it describes and share my findings. In this blog post, we will explore the **binary function similarity** problem, understand its significance, and examine existing approaches to address it.
+Recently, I came across a paper[^footnote] that introduced new concepts to me. Consequently, I decided to delve into the problem it describes and share my findings. In this blog post, we will explore the background knowledge needed to understand **binary function similarity** problem, we also talk about what is it and talk a bit about existing solutions for it.
 
 ## Background Knowledge
 If you are interested to read papers in this research area, you probably need some background knowledge. Here I put some of the concepts that you should be familiar with to be able to understand this paper easier. [If you just interested in knowing the problem, then skip this part and go directly to the Next Section](#binary-function-similarity).

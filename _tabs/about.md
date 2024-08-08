@@ -9,7 +9,7 @@ order: 4
 
 <img src="/assets/img/javad-2.jpeg" alt="Javad Koushyar" style="margin: auto" width="60%"/>
 
-I am Javad, a dedicated `Graduate Research Assistant at Texas State University` and an `Experienced Software Developer` with a robust background in software engineering. My professional journey has spanned continents and disciplines, from a Senior Software Engineer in Australia, to leading team of developers in Iran.
+Hi! I am Javad, a dedicated Graduate Research Assistant at Texas State University and an experienced Software Developer with a robust background in software engineering. This is my personal blog in which I try to share with you the things I learned and found interesting! My professional journey has spanned continents and disciplines, from a Senior Software Engineer in Australia, to leading team of developers in Iran.
 
 <!-- ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical) -->
 
@@ -51,8 +51,10 @@ I am Javad, a dedicated `Graduate Research Assistant at Texas State University` 
  -->
 
 ---
-## Contact ME
+## Contact Me :)
 
 Feel free to reach out to me for collaboration or discussions on exciting tech projects!
 
 My Email: javadmokhtari@outlook.com
+
+Also, you can find my LinkedIn and X on top of this page.

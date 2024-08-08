@@ -1,7 +1,7 @@
 ---
 title: A Simple Guide to Design a Database
 date: 2024-07-13 17:20:00 -0500
-categories: [Databases]
+categories: [Software Engineering, Database Design]
 tags: [database, database-design]     # TAG names should always be lowercase
 image: /assets/img/posts/database-design/cover.png
 alt: "A Practical Introduction to Cybersecurity"
