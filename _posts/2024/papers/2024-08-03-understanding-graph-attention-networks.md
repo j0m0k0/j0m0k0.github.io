@@ -97,7 +97,14 @@ In neural networks, the **receptive field** is the area of the input image that 
 
 #### LeakyReLU
 
-**LeakyReLU** is a type of activation function used in neural networks. It is similar to the ReLU function but allows a small, non-zero gradient when the input is negative, preventing the problem of dying neurons.
+**LeakyReLU** is a type of activation function used in neural networks. It is similar to the ReLU function but allows a small, non-zero gradient when the input is negative, preventing the problem of dying neurons. [^leaky]
+
+$$
+\text{LeakyReLU}(x) = \begin{cases} 
+x, & \text{if } x \geq 0 \\
+\text{negative_slope} \times x, & \text{otherwise}
+\end{cases}
+$$
 
 ### Evaluation Metrics
 
@@ -118,4 +125,5 @@ The **micro-averaged F1 score** is a metric that calculates the F1 score globall
 Understanding the concepts outlined in this post will significantly enhance your ability to comprehend the Graph Attention Networks paper. By familiarizing yourself with graph theory, spectral methods, attention mechanisms, and evaluation metrics, you will be well-prepared to tackle the complexities of GATs and their applications.
 
 ## Read More
-[^footnote]: <a href="https://arxiv.org/abs/1710.10903" target="_blank">Paper</a>
+[^footnote]: <a href="https://arxiv.org/abs/1710.10903" target="_blank">Graph Attention Networks</a>
+[^leaky]: <a href="https://pytorch.org/docs/stable/generated/torch.nn.LeakyReLU.html" target="_blank">LeakyReLU</a>
