@@ -118,4 +118,4 @@ The **micro-averaged F1 score** is a metric that calculates the F1 score globall
 Understanding the concepts outlined in this post will significantly enhance your ability to comprehend the Graph Attention Networks paper. By familiarizing yourself with graph theory, spectral methods, attention mechanisms, and evaluation metrics, you will be well-prepared to tackle the complexities of GATs and their applications.
 
 ## Read More
-[^footnote]: <a href="" target="_blank">Paper</a>
+[^footnote]: <a href="https://arxiv.org/abs/1710.10903" target="_blank">Paper</a>
