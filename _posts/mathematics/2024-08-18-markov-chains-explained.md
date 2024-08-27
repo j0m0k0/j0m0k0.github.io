@@ -1,10 +1,10 @@
 ---
-title: Markov Chains Clearly Explained!
+title: Markov Chains Simply Explained!
 date: 2024-08-17 11:20:00 -0500
 categories: [Cybersecurity, Basics]
 tags: [pentesting, introduction-to-pentesting]     # TAG names should always be lowercase
 image: /assets/img/posts/markov-chains/cover.png
-alt: "How Machine Learning Is Solving the Binary Function Similarity Problem?"
+alt: "Markov Chains Simply Explained!"
 math: true
 ---
 If you ever read data science or mathematics papers, you probably have seen or heard about Markov Chains. In this post, I will explain to you in very simple words what Markov Chains are, how they work, and why and how they can be useful.

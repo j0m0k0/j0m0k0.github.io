@@ -1,5 +1,5 @@
 ---
-title: Understanding Graph Attention Networks (GATs)
+title: Prerequisites for Understanding Graph Attention Networks (GATs)
 date: 2024-08-03 15:20:00 -0500
 categories: [Understanding Papers, Deep Learning]
 tags: [binary function similarity]     # TAG names should always be lowercase
