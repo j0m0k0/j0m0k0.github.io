@@ -39,6 +39,10 @@ Hi! I am Javad, a dedicated Graduate Research Assistant at Texas State Universit
 - PhD's degree in Computer Science -- from Texas State University, Texas, United States (In progress)
 - Bachelor's degree in Computer Engineering -- from Bu-Ali University, Hamedan, Iran
 
+## About Sec-Sea
+Sec-Sea is my blog. I share whatever I learn in Computer Science, Engineering and Security areas. I do my best to explain the topics in the simplest way and at the same time make sure that content is interesting and easy to follow. You can search in the website for your special content or use categories page to see a more organized overview of the blog contents.
+At the end, I hope these posts can help some people around the world :) Thats my goal.
+
 <!-- ## Technical Books I've Enjoyed
 
 | Book Title                             | Author(s)                               | Year  | Status              |

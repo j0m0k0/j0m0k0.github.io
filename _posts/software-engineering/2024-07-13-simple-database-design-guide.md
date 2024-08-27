@@ -1,5 +1,5 @@
 ---
-title: A Simple Guide to Design a Database
+title: A Simple Guide to Database Design
 date: 2024-07-13 17:20:00 -0500
 categories: [Software Engineering, Database Design]
 tags: [database, database-design]     # TAG names should always be lowercase
