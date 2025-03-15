@@ -70,8 +70,10 @@ analytics:
     domain: # fill in your Matomo domain
   cloudflare:
     id: # fill in your Cloudflare Web Analytics token
+  fathom:
+    id: # fill in your Fathom Site ID
 
-# Pageviews settings
+# Page views settings
 pageviews:
   provider: # now only supports 'goatcounter'
 
@@ -83,10 +85,10 @@ pageviews:
 #
 # Available options:
 #
-#     light  - Use the light color scheme
-#     dark   - Use the dark color scheme
+#     light — Use the light color scheme
+#     dark — Use the dark color scheme
 #
-theme_mode:  # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -214,8 +216,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
-  - "*.config.js"
-  - package*.json
+  - purgecss.js
+  - rollup.config.js
+  - "package*.json"
 
 jekyll-archives:
   enabled: [categories, tags]
