@@ -39,8 +39,8 @@ Hi! I am Javad, a dedicated Graduate Research Assistant at Texas State Universit
 - PhD in Computer Science (In progress)
 - Bachelor in Computer Engineering
 
-## About Sec-Sea
-Sec-Sea is my blog. I share whatever I learn in Computer Science, Engineering and Security areas. I do my best to explain the topics in the simplest way and at the same time make sure that content is interesting and easy to follow. You can search in the website for your special content or use categories page to see a more organized overview of the blog contents.
+## About My Blog
+I write about Computer Science, Engineering and Programming. I do my best to explain the topics in the simplest way and at the same time make sure that content is interesting and easy to follow. You can search in the website for your special content or use categories page to see a more organized overview of the blog contents.
 At the end, I hope these posts can help some people around the world :) Thats my goal.
 
 <!-- ## Technical Books I've Enjoyed

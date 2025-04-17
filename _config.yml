@@ -14,22 +14,22 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sec-Sea # the main title
+title: Javad Koushyar # the main title
 
-tagline: Just a computer science blog, with focus on mathematics # it will display as the sub-title
+tagline: Just a computer science blog! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Security Sea is a blog on security and computer science topics created by Javad Koushyar.
+  Welcome to my blog. I talk about Python, AI and Web Apps.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://sec-sea.com"
+url: "https://j0m0k0.github.io"
 
 github:
   username: j0m0k0 # change to your github username
 
-twitter:
-  username: JavadKoushyar # change to your twitter username
+# twitter:
+#   username: JavadKoushyar # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: javadmokhtari@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/JavadKoushyar # change to your twitter homepage
+    # - https://twitter.com/JavadKoushyar # change to your twitter homepage
     - https://github.com/j0m0k0 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -112,7 +112,7 @@ comments:
   provider: disqus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: sec-sea # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: j0m0k0 # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>

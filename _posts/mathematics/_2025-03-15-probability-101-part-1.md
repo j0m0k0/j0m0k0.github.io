@@ -9,7 +9,7 @@ math: true
 ---
 Probability is one of the most important parts of mathematics and in fact, one of the most important parts of everyone's real life. Whether you are a student or non-student, knowing the probability and how it works, can help you in understanding more situations in real life and in theoretical problems as well.
 
-This series, consisted of nine parts which will be published on sec-sea over the time. We cover main ideas, how they works and usually avoid the proofs unless it helps us in understanding that formula or theorem easier. This series is not designed for professional mathematicians and I'm also not a mathematician, so there may be some mistakes in the writing and my descriptions. If you saw any of these mistakes or you have suggestions for improvement, please don't hesitate to contact me or just leave a comment below this post.
+This series, consisted of nine parts which will be published on my blog over the time. We cover main ideas, how they works and usually avoid the proofs unless it helps us in understanding that formula or theorem easier. This series is not designed for professional mathematicians and I'm also not a mathematician, so there may be some mistakes in the writing and my descriptions. If you saw any of these mistakes or you have suggestions for improvement, please don't hesitate to contact me or just leave a comment below this post.
 
 People who are working in Computer Science or Computer Engineering majors, are expected to know the basics of probability and this series exactly aims this group of people. However, as I said, it can be useful for any person who is seeking to understand probability without going so deep into the proofs.
 
