@@ -9,7 +9,7 @@ order: 4
 
 <img src="/assets/img/javad-2.jpeg" alt="Javad Koushyar" style="margin: auto" width="60%"/>
 
-Hi! I am Javad, a dedicated Graduate Research Assistant at Texas State University and an experienced Software Developer with a robust background in software engineering. This is my personal blog in which I try to share with you the things I learned and found interesting! My professional journey has spanned continents and disciplines, from a Senior Software Engineer in Australia, to leading team of developers in Iran.
+Hi! I am Javad, a dedicated Graduate Research Assistant at Texas State University and an experienced Software Developer with a robust background in software engineering. This is my personal blog in which I try to share with you the things I learned and found interesting! My professional journey has spanned continents and disciplines, from a Senior Software Engineer, to leading team of developers.
 
 <!-- ![Javad's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0m0k0&layout=compact&theme=radical) -->
 
@@ -36,8 +36,8 @@ Hi! I am Javad, a dedicated Graduate Research Assistant at Texas State Universit
 - Intern at XaaS Cloud Computing
 
 ## Education
-- PhD's degree in Computer Science -- from Texas State University, Texas, United States (In progress)
-- Bachelor's degree in Computer Engineering -- from Bu-Ali University, Hamedan, Iran
+- PhD in Computer Science (In progress)
+- Bachelor in Computer Engineering
 
 ## About Sec-Sea
 Sec-Sea is my blog. I share whatever I learn in Computer Science, Engineering and Security areas. I do my best to explain the topics in the simplest way and at the same time make sure that content is interesting and easy to follow. You can search in the website for your special content or use categories page to see a more organized overview of the blog contents.
@@ -55,10 +55,10 @@ At the end, I hope these posts can help some people around the world :) Thats my
  -->
 
 ---
-## Contact Me :)
+## Contact Me
 
-Feel free to reach out to me for collaboration or discussions on exciting tech projects!
+I'm a big fan of collaboration! Specially if it's a project that is open-source and helps the community.
 
-My Email: javadmokhtari@outlook.com
+Feel free to send an email :)
+javadmokhtari@outlook.com
 
-Also, you can find my LinkedIn and X on top of this page.

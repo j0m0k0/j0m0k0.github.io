@@ -16,7 +16,7 @@ timezone: America/Chicago
 
 title: Sec-Sea # the main title
 
-tagline: By Javad Koushyar, PhD Student of Computer Science @ TXST # it will display as the sub-title
+tagline: Just a computer science blog, with focus on mathematics # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Security Sea is a blog on security and computer science topics created by Javad Koushyar.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/avatar.jpeg
+avatar: assets/img/favicons/android-chrome-256x256.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
